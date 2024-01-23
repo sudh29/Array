@@ -1,22 +1,31 @@
-t=int(input())
-#print(t)
-for i in range(t):
-    n=int(input())
-    arr=input().split()
-    # print(arr)
-    for i in range(len(arr)//2):
-        arr[i],arr[n-1-i]=arr[n-1-i],arr[i]
-    print(" ".join(arr))    
-    # print(" ".join(arr[::-1]))
+class Solution:
+     def reverseWord(self, str: str) -> str:
+        n=len(str)
+        str = list(str)
+        for i in range(n//2):
+            str[i],str[n-i-1] = str[n-i-1], str[i]
+        
+        # Two pointer approach
+        # start = 0
+        # end = n - 1
+        # while start < end:
+        #     str[start], str[end] = str[end], str[start]
+        #     start += 1
+        #     end -= 1
+        str = "".join(str)
+        return str
 
-    
-    
-# Two pointer approach
 
-def reverse_array(arr):
-    start = 0
-    end = len(arr) - 1
-    while start < end:
-        arr[start], arr[end] = arr[end], arr[start]
-        start += 1
-        end -= 1
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+if __name__ == "__main__":
+    t = int(input())
+    while(t>0):
+        s = input()
+        ob = Solution()
+        print(ob.reverseWord(s))
+        t = t-1
+
+# } Driver Code Ends
