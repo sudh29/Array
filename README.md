@@ -24,8 +24,43 @@ This repository contains the Array problem solutions.
 [10 Find the Duplicate Number](10_Find_the_Duplicate_Number.py)
 
 [11 Reverse array](0_Reverse_the_array.py)
+
 [12 Reverse array](0_Reverse_the_array.py)
+
 [13 Reverse array](0_Reverse_the_array.py)
+
 [14 Reverse array](0_Reverse_the_array.py)
+
 [15 Reverse array](0_Reverse_the_array.py)
+
+[11 Reverse array](0_Reverse_the_array.py)
+
+[12 Reverse array](0_Reverse_the_array.py)
+
+[13 Reverse array](0_Reverse_the_array.py)
+
+[14 Reverse array](0_Reverse_the_array.py)
+
+[15 Reverse array](0_Reverse_the_array.py)
+
+[11 Reverse array](0_Reverse_the_array.py)
+
+[12 Reverse array](0_Reverse_the_array.py)
+
+[13 Reverse array](0_Reverse_the_array.py)
+
+[14 Reverse array](0_Reverse_the_array.py)
+
+[15 Reverse array](0_Reverse_the_array.py)
+
+[11 Reverse array](0_Reverse_the_array.py)
+
+[12 Reverse array](0_Reverse_the_array.py)
+
+[13 Reverse array](0_Reverse_the_array.py)
+
+[14 Reverse array](0_Reverse_the_array.py)
+
+[15 Reverse array](0_Reverse_the_array.py)
+
 
