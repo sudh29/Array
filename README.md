@@ -63,25 +63,16 @@ This repository contains the Array problem solutions.
 
 [30 Minimum Size Subarray Sum](30_Minimum_Size_Subarray_Sum.py)
 
-[11 Reverse array](0_Reverse_the_array.py)
+[31 Three way partitioning](31_Three_way_partitioning.py)
 
-[12 Reverse array](0_Reverse_the_array.py)
+[32 Minimum swaps and K together](32_Minimum_swaps_and_K_together.py)
 
-[13 Reverse array](0_Reverse_the_array.py)
+[33 Form a palindrome](33_Form_a_palindrome.py)
 
-[14 Reverse array](0_Reverse_the_array.py)
+[34 Find the median](34_Find_the_median.py)
 
-[15 Reverse array](0_Reverse_the_array.py)
+[35 Median of 2 Sorted Arrays of Different Sizes](35_Median_of_2_Sorted_Arrays_of_Different_Sizes.py)
 
-[11 Reverse array](0_Reverse_the_array.py)
-
-[12 Reverse array](0_Reverse_the_array.py)
-
-[13 Reverse array](0_Reverse_the_array.py)
-
-[14 Reverse array](0_Reverse_the_array.py)
-
-[15 Reverse array](0_Reverse_the_array.py)
 
 
 
