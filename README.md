@@ -23,25 +23,25 @@ This repository contains the Array problem solutions.
 
 [10 Find the Duplicate Number](10_Find_the_Duplicate_Number.py)
 
-[11 Reverse array](0_Reverse_the_array.py)
+[11 Merge Without Extra Space](11_Merge_Without_Extra_Space.py)
 
 [12 Reverse array](0_Reverse_the_array.py)
 
-[13 Reverse array](0_Reverse_the_array.py)
+[13 Merge Intervals](13_Merge_Intervals.py)
 
-[14 Reverse array](0_Reverse_the_array.py)
+[14 Next Permutation](14_Next_Permutation.py)
 
-[15 Reverse array](0_Reverse_the_array.py)
+[15 Count Inversions](15_Count_Inversions.py)
 
-[11 Reverse array](0_Reverse_the_array.py)
+[16 Best Time to Buy and Sell Stock](16_Best_Time_to_Buy_and_Sell_Stock.py)
 
-[12 Reverse array](0_Reverse_the_array.py)
+[17 Count pairs with given sum](17_Count_pairs_with_given_sum.py)
 
-[13 Reverse array](0_Reverse_the_array.py)
+[18 find common elements In 3 sorted arrays](18_find_common_elements_In_3_sorted_arrays.py)
 
-[14 Reverse array](0_Reverse_the_array.py)
+[19 Alternate positive and negative numbers](19_Alternate_positive_and_negative_numbers.py)
 
-[15 Reverse array](0_Reverse_the_array.py)
+[20 Subarray with 0 sum](20_Subarray_with_0_sum.py)
 
 [11 Reverse array](0_Reverse_the_array.py)
 
