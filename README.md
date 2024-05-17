@@ -43,6 +43,26 @@ This repository contains the Array problem solutions.
 
 [20 Subarray with 0 sum](20_Subarray_with_0_sum.py)
 
+[21 Factorials of large_numbers](21_Factorials_of_large_numbers.py)
+
+[22 Maximum Product Subarray](22_Maximum_Product_Subarray.py)
+
+[23 Longest consecutive subsequence](23_Longest_consecutive_subsequence.py)
+
+[24 Majority Element II k n](24_Majority Element_II_k_n.py)
+
+[25 Buy and Sell Stock III](25_Buy_and_Sell_Stock_III.py)
+
+[26 Array Subset of another array](26_Array_Subset_of_another_array.py)
+
+[27 Triplet Sum in Array](27_Triplet_Sum_in_Array.py)
+
+[28 Trapping Rain Water](28_Trapping_Rain_Water.py)
+
+[29 Chocolate Distribution Problem](29_Chocolate_Distribution_Problem.py)
+
+[30 Minimum Size Subarray Sum](30_Minimum_Size_Subarray_Sum.py)
+
 [11 Reverse array](0_Reverse_the_array.py)
 
 [12 Reverse array](0_Reverse_the_array.py)
@@ -62,5 +82,6 @@ This repository contains the Array problem solutions.
 [14 Reverse array](0_Reverse_the_array.py)
 
 [15 Reverse array](0_Reverse_the_array.py)
+
 
 
