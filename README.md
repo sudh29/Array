@@ -49,7 +49,7 @@ This repository contains the Array problem solutions.
 
 [23 Longest consecutive subsequence](23_Longest_consecutive_subsequence.py)
 
-[24 Majority Element II k n](24_Majority Element_II_k_n.py)
+[24 Majority Element II k n](24_Majority_Element_II_k_n.py)
 
 [25 Buy and Sell Stock III](25_Buy_and_Sell_Stock_III.py)
 
