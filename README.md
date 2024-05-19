@@ -25,7 +25,7 @@ This repository contains the Array problem solutions.
 
 [11 Merge Without Extra Space](11_Merge_Without_Extra_Space.py)
 
-[12 Reverse array](0_Reverse_the_array.py)
+[12 Kadanes Algorithm](7_Kadanes_Algorithm.py)
 
 [13 Merge Intervals](13_Merge_Intervals.py)
 
